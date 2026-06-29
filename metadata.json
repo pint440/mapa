@@ -1,0 +1,6 @@
+{
+  "name": "Terroping",
+  "description": "Sismógrafo y detector de sismos en Venezuela en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
